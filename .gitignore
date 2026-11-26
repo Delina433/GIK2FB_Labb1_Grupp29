@@ -1,0 +1,15 @@
+# Virtuell miljö
+.venv/
+venv/
+
+# Python-cache
+__pycache__/
+*.pyc
+
+# Jupyter-checkpoints
+.ipynb_checkpoints/
+
+# Editor/OS-filer
+.vscode/
+.DS_Store
+Thumbs.db
